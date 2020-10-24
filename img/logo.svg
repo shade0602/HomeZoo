@@ -2,22 +2,71 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="63.580521mm"
-   height="22.175503mm"
-   viewBox="0 0 63.58052 22.175503"
+   width="34.005909mm"
+   height="14.644559mm"
+   viewBox="0 0 34.005908 14.644559"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="logo.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2483">
+      <stop
+         style="stop-color:#23fab2;stop-opacity:1;"
+         offset="0"
+         id="stop2479" />
+      <stop
+         style="stop-color:#23fab2;stop-opacity:0;"
+         offset="1"
+         id="stop2481" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2475"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop2473" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2323"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#038cfe;stop-opacity:1;"
+         offset="0"
+         id="stop2321" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2483"
+       id="linearGradient2485"
+       x1="226.97575"
+       y1="-22.690117"
+       x2="260.10007"
+       y2="-22.690117"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2323"
+       id="linearGradient2493"
+       gradientUnits="userSpaceOnUse"
+       x1="226.97575"
+       y1="-22.690117"
+       x2="260.10007"
+       y2="-22.690117" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7515263"
-     inkscape:cx="110.2674"
-     inkscape:cy="44.129459"
+     inkscape:cx="113.8026"
+     inkscape:cy="30.038053"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,10 +105,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-222.73808,57.350994)">
+     transform="translate(-221.80273,53.548401)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:70.99999785%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0.28310418px;word-spacing:0px;fill:url(#linearGradient2485);fill-opacity:1;stroke:url(#linearGradient2493);stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        x="226.79819"
        y="-21.796988"
        id="text12"
@@ -68,16 +117,15 @@
          id="tspan10"
          x="226.79819"
          y="-21.796988"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:0%;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f9f9f9;stroke-width:0.26458332"
-         dx="1"
-         dy="3.0899999">Домашний</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:0px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient2493);stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         dy="0.89999998">Home</tspan><tspan
          sodipodi:role="line"
          x="226.79819"
-         y="-11.213655"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:0%;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:start;letter-spacing:0.30162501px;word-spacing:0px;text-anchor:start;opacity:0.98999999;fill:#f9f9f9;stroke-width:0.26458332"
+         y="-13.851314"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:6.5999999px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:1.11125004px;word-spacing:0px;text-anchor:start;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient2493);stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan3765"
-         dy="-0.78000003"
-         dx="3.3399997">Zоопарк</tspan></text>
+         dy="-2.0699999"
+         dx="2.0699999">Zoo</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot14"
