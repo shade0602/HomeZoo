@@ -10,6 +10,10 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+img {
+    width: 100%;
+}
+
 /* шапка
 ================================== */
 header {
@@ -20,7 +24,8 @@ header {
     /* чтобы разместить рис в центре */
     display: block;
     margin: 0 auto;
-    padding: 1em 0 .5em 0;
+    padding: 1em 2em .5em 2em;
+    max-width: 350px;
 }
 
 /* меню навигации
@@ -72,3 +77,4 @@ h2 {
     text-align: center;
     line-height: 1;
 }
+
