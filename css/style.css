@@ -112,13 +112,15 @@ footer {
 }
 
 .footer-menu {
-    margin: .5 0;
-    padding-left: 1em;
+    text-align: center;
+    margin: 1.5em 0;
+    padding: 0;
 }
 
 .footer-menu li{
     list-style: none;
     line-height: 1.5;
+    font-size: 1.125em;
 }
 
 .footer-menu a {
