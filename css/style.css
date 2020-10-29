@@ -113,8 +113,13 @@ footer {
 
 .footer-menu {
     text-align: center;
-    margin: 1.5em 0;
+}
+
+.footer-menu ul {
+    display: inline-block;
+    margin: 1.5em auto;
     padding: 0;
+    text-align: left;
 }
 
 .footer-menu li{
