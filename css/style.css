@@ -116,10 +116,8 @@ footer {
 }
 
 .footer-menu ul {
-    display: inline-block;
-    margin: 1.5em auto;
+    margin: 1.5em 0;
     padding: 0;
-    text-align: left;
 }
 
 .footer-menu li{
