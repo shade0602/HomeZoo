@@ -2,22 +2,71 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="12.760123mm"
-   height="11.343073mm"
-   viewBox="0 0 12.760123 11.343073"
+   width="11.130491mm"
+   height="14.029375mm"
+   viewBox="0 0 11.130491 14.029375"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="logo2.svg">
+   sodipodi:docname="logo3.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2483">
+      <stop
+         style="stop-color:#23fab2;stop-opacity:1;"
+         offset="0"
+         id="stop2479" />
+      <stop
+         style="stop-color:#23fab2;stop-opacity:0;"
+         offset="1"
+         id="stop2481" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2475"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop2473" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2323"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#038cfe;stop-opacity:1;"
+         offset="0"
+         id="stop2321" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2483"
+       id="linearGradient2485"
+       x1="226.97575"
+       y1="-22.690117"
+       x2="260.10007"
+       y2="-22.690117"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2323"
+       id="linearGradient831"
+       gradientUnits="userSpaceOnUse"
+       x1="226.97575"
+       y1="-22.690117"
+       x2="260.10007"
+       y2="-22.690117" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.7824915"
-     inkscape:cx="15.464347"
-     inkscape:cy="8.0790038"
+     inkscape:zoom="2.7515263"
+     inkscape:cx="51.473553"
+     inkscape:cy="30.038055"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,26 +105,27 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-220.80863,45.978596)">
+     transform="translate(-221.80273,52.933217)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="227.61873"
-       y="-22.158852"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:70.99999785%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0.28310418px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient831);stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;"
+       x="226.79819"
+       y="-21.796988"
        id="text12"
        transform="matrix(0.99360354,-0.10098936,0.12716981,0.99351217,0,0)"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="227.61873"
-         y="-22.158852"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:0%;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00fda9;stroke-width:0.26458332;fill-opacity:0.84313726"
-         dx="-2.4200001"
-         dy="6.4500003">Д</tspan><tspan
+         x="226.79819"
+         y="-21.796988"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:0px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient831);stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         dy="0.89999998">H</tspan><tspan
          sodipodi:role="line"
-         x="227.61873"
-         y="-11.575519"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:0%;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#00fda9;stroke-width:0.26458332;fill-opacity:0.84313726"
-         id="tspan3765">Z</tspan></text>
+         x="226.79819"
+         y="-13.851314"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:6.5999999px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:1.11125004px;word-spacing:0px;text-anchor:start;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient831);stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="tspan3765"
+         dy="-2.0699999"
+         dx="2.0699999">Z</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot14"
