@@ -83,7 +83,7 @@ h2 {
 .page {
     /* общее для всех абзацев */
     margin: 0.5em 0;
-    padding: .5em 1.5em;
+    padding: .5em 1.5em .7em 1.5em;
     outline: 2px solid #038cfeff;
     outline-offset: -1em;
 }
@@ -104,6 +104,10 @@ h2 {
     font-weight: 350;
 }
 
+.first {
+    padding-top: 1em;
+    position: relative;
+}
 /* футер 
 =========================*/
 footer {
